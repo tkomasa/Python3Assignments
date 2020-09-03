@@ -8,3 +8,4 @@ If you happen across any of my projects, feel free to let me know how awful and 
 Projects:
 
 1. dice.py is an incredibly simple script that simply acts as an RNG. I am new to python and it was simply to practice loops and importing while also being arguably useful.
+2. rock,paper,scissors.py is a game of rock paper scissors. Pretty obvious. It doesn't keep score between games, so no leaderboard is possible, becuase I don't know how. :shrug:
